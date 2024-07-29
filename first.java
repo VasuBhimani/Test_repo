@@ -1,5 +1,5 @@
 /**
- * first
+ * first addeed new comment
  */
 
 // minimum element in array
